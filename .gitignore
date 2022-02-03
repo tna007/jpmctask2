@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+0001-Add-setInterval-to-show-graph-with-data-updated-cont.patch
+solution2.patch
